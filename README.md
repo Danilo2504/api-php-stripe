@@ -6,6 +6,7 @@
 
 Per eseguire il progetto è essenziale avere XAMPP installato:
 
+- Esegui un clone del repository nella cartella htdocs di XAMPP.
 - Avvia il server web Apache in XAMPP sulla porta 80
 - Entra nella cartella api e installa le librerie dal composer.json.
 
